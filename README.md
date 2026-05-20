@@ -1,1 +1,3 @@
-# distributedkan-it-2324-p-030mubeena
+My Name:Mubeena Zafar
+Course:HNDIT
+This is my GitHub lab work.
